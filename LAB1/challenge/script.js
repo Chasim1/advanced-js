@@ -14,7 +14,6 @@ let shoes = 89.78;
 
 
 
-
 // 1. If divided evenly, how much would each sibling get for the week?
 
 // 2. How many games can Jordan buy with their cut?
